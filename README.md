@@ -1,4 +1,4 @@
-**Ultimate Summarizer & QA App**
+#Ultimate Summarizer & QA App
 
 A Streamlit-based application that ingests various document sources (PDF, text, YouTube videos, and websites), preprocesses content, and provides both summarization and question-answering capabilities using a Retrieval-Augmented Generation (RAG) pipeline powered by LangChain and Groq AI.
 
